@@ -1,0 +1,37 @@
+
+.search_bar{
+width: 50vw;
+height: 50px;
+background: #FFFFFF;
+box-shadow: 0px 4px 50px rgba(111, 111, 111, 0.1);
+border-radius: 10px;
+text-indent: 30px;
+background-image: url('https://i.pinimg.com/736x/b9/67/82/b96782d0ab0ea492dabcf4a0f00698d2.jpg');
+background-size: 20px 20px;
+background-repeat: no-repeat;
+background-position: 5px 12px;
+}
+
+#dropdown-basic{
+    background-color: white;
+    color: black;
+    margin: 5px;
+    width: 100px;
+}
+
+.search{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    margin: 50px;  
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.chips{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+}

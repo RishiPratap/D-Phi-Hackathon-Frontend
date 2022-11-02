@@ -1,0 +1,72 @@
+.projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8rem;
+}
+.textinfo{
+    color: green;
+}
+#pill{
+    background: rgba(68, 146, 76, 0.24) !important;
+    width: 80px;
+    border-radius: 5px;
+}
+.badgeName{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5rem;
+
+}
+.button2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+.play{
+width: 182.55px;
+height: 42px;
+border: none;
+background: #44924C;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+text-align: center;
+
+color: #FFFFFF;
+border-radius: 10px;
+}
+.timer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    font-size: 18px;
+    color: #454545;
+}
+.Hour{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.timeM{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.timeS{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.iconCheck{
+   margin: 5px;
+}
